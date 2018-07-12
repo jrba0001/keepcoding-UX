@@ -22,4 +22,5 @@ propuesta.
 
 Entrega de ejercicio:
 1.- Fichero Ejercicio 1 JRBA Prototipo.pdf con prototipo de propuestas de mejoras. https://github.com/jrba0001/keepcoding-UX/blob/master/Ejercicio%201%20JRBA%20Prototipo.pdf
-2.- El test de tareas se encuentra en el Ejercicio 2 JRBA test tareas.pdf 
+
+2.- El test de tareas se encuentra en el Ejercicio 2 JRBA test tareas.pdf fichero https://github.com/jrba0001/keepcoding-UX/blob/master/Ejercicio%202%20JRBA%20test%20tareas.pdf
